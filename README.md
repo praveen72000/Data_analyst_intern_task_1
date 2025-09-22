@@ -17,5 +17,6 @@ This task demonstrates basic **data cleaning and preprocessing** steps using Pyt
 
 ## How to Run
 1. Clone this repository or download the files.
-2. Open `task1.ipynb` in Jupyter Notebook / JupyterLab.
+2. Open task1.py vs_code
 3. Run all cells to see the cleaning process.
+
